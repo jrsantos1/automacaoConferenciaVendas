@@ -1,6 +1,12 @@
 from selenium import webdriver
 import time
-import pandas
+import pandas as pd
+from IPython.display import display
+
+tabela = pd.read_excel("requisicoes.xlsx")
+display(tabela)
+
+quit()
 
 navegator = webdriver.Chrome()
 
@@ -55,18 +61,68 @@ navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_SCHEDULE_PB$0"]/img').cli
 
 time.sleep(3)
 
-navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_SCHEDULE_PB$0"]/img').click()
+#navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_SCHEDULE_PB$0"]/img').click()
 
 #navegator.switch_to.window()
 
+navegator.switch_to.default_content()
+
+time.sleep(3)
+
 navegator.find_element_by_xpath('//*[@id="#ICOK"]').click()
 
+navegator.switch_to.frame('TargetContent')
+
+navegator.find_element_by_xpath('//*[@id="REQ_LINE_SHIP_SHIPTO_ID$0"]').clear() # Entrega
+
+navegator.find_element_by_xpath('//*[@id="REQ_LINE_SHIP_SHIPTO_ID$0"]').send_keys('2120012') # Entrega
+
+time.sleep(3)
+
+#navegator.find_element_by_xpath('//*[@id="REQ_LINE_SHIP_SHIPTO_ID$0"]').send_keys('21212') # Entrega
+
+navegator.find_element_by_xpath('//*[@id="REQ_SCHED_WRK_DISTRIBUTE_PB$0"]/img').click() # Navegar para centrod e custo
+
+navegator.switch_to.default_content()
+
+time.sleep(3)
+
+navegator.find_element_by_xpath('//*[@id="#ICYes"]').click() # confirmar e seguir
+
+time.sleep(10)
+
+navegator.find_element_by_xpath('//*[@id="#ICOK"]').click() #confirmar e seguir
+navegator.find_element_by_xpath('//*[@id="#ICOK"]').click() #confirmar e seguir
+
+time.sleep(3)
+
+navegator.switch_to.frame('ptModFrame_2')
+
+time.sleep(5)
+
+navegator.find_element_by_xpath('//*[@id="OPERATING_UNIT$0"]').clear()
+
+navegator.find_element_by_xpath('//*[@id="OPERATING_UNIT$0"]').send_keys('2120012') #preenchendo unidade de distribuição orçamentaria
+
+#navegator.switch_to.frame('ptModFrame_5')
+
+time.sleep(3)
+
+navegator.find_element_by_xpath('//*[@id="#ICSave"]').click()
+
+time.sleep(3)
+
+navegator.switch_to.frame('TargetContent')
+
+time.sleep(3)
+
+navegator.find_element_by_xpath('//*[@id="REQ_PNLS_WRK_RETURN_PB"]').click() #voltar para tela inicial
+
+time.sleep(3)
+
+navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_PRICE_REQ_C$0"]').clear()
+
+navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_PRICE_REQ_C$0"]').send_keys(400)
 
 
-
-
-
-
-
-
-
+quit()

@@ -1,4 +1,6 @@
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+
 import time
 import pandas
 
@@ -49,15 +51,17 @@ navegator.find_element_by_xpath('//*[@id="REQ_LINE_QTY_REQ$0"]').clear() #preenc
 
 navegator.find_element_by_xpath('//*[@id="REQ_LINE_QTY_REQ$0"]').send_keys('1') #preencher quantidade
 
-time.sleep(4)
-
-navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_SCHEDULE_PB$0"]/img').click()
+#navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_SCHEDULE_PB$0"]/img').click()
 
 time.sleep(3)
 
-navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_SCHEDULE_PB$0"]/img').click()
-
 #navegator.switch_to.window()
+
+navegator.switch_to.active_element()
+
+navegator.switch_to.window('pt_modalMask')
+
+WebDriverWait(navegator, 5)
 
 navegator.find_element_by_xpath('//*[@id="#ICOK"]').click()
 
