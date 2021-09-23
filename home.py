@@ -12,9 +12,9 @@ navegator = webdriver.Chrome()
 
 navegator.get("http://erpb.orsa.mx:31470/psp/cpfb91pr/EMPLOYEE/ERP/?&cmd=login&languageCd=POR&")
 
-navegator.find_element_by_xpath('//*[@id="userid"]').send_keys('JSANTOS')
+navegator.find_element_by_xpath('//*[@id="userid"]').send_keys('')
 
-navegator.find_element_by_xpath('//*[@id="pwd"]').send_keys('987654321%')
+navegator.find_element_by_xpath('//*[@id="pwd"]').send_keys('')
 
 navegator.find_element_by_xpath('//*[@id="login"]/div/div[1]/div[8]/input').click()
 
