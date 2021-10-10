@@ -22,3 +22,625 @@ JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILU
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
 [Parent 15424, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633620707485	geckodriver	INFO	Listening on 127.0.0.1:61579
+1633620710597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofilegNq49B"
+1633620714763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofilegNq49B\\search.json.mozlz4", (void 0)))
+1633620728377	Marionette	INFO	Listening on port 61587
+1633620728662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633621683443	Marionette	INFO	Stopped listening on port 61587
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+t	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1633621677088	Marionette	INFO	Stopped listening on port 57200
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 18464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633621687300	geckodriver	INFO	Listening on 127.0.0.1:57282
+1633621690444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileNwORUp"
+1633621691270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileNwORUp\\search.json.mozlz4", (void 0)))
+1633621696355	Marionette	INFO	Listening on port 57290
+1633621697069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633624804440	Marionette	INFO	Stopped listening on port 57290
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+1633624792858	Marionette	INFO	Stopped listening on port 57415
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+t	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1633624632953	Marionette	INFO	Stopped listening on port 52421
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 19432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633624663349	geckodriver	INFO	Listening on 127.0.0.1:52499
+1633624666479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileTVsAGY"
+1633624669341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileTVsAGY\\search.json.mozlz4", (void 0)))
+1633624676241	Marionette	INFO	Listening on port 52507
+1633624676621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633625688033	Marionette	INFO	Stopped listening on port 52507
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile serverconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileoae3w7\\search.json.mozlz4", (void 0)))
+1633625692455	Marionette	INFO	Listening on port 60532
+1633625692922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633625721490	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633626858832	Marionette	INFO	Stopped listening on port 60532
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 17336, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633626884806	geckodriver	INFO	Listening on 127.0.0.1:57447
+1633626888027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofile8ny1kd"
+1633626889487	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofile8ny1kd\\search.json.mozlz4", (void 0)))
+1633626898129	Marionette	INFO	Listening on port 57457
+1633626898591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633628085847	Marionette	INFO	Stopped listening on port 57457
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633628089596	geckodriver	INFO	Listening on 127.0.0.1:49652
+1633628092655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileDuIVAR"
+1633628096836	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileDuIVAR\\search.json.mozlz4", (void 0)))
+1633628107720	Marionette	INFO	Listening on port 49661
+1633628108778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633629710604	Marionette	INFO	Stopped listening on port 49661
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 16848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 16848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 16848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+chable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+1633629712657	Marionette	INFO	Stopped listening on port 61507
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile serverconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofilem8BZPT\\search.json.mozlz4", (void 0)))
+1633629718813	Marionette	INFO	Listening on port 59597
+1633629719604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633630559525	Marionette	INFO	Stopped listening on port 59591633630559863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofile4NhGsp"
+1633630561153	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofile4NhGsp\\search.json.mozlz4", (void 0)))
+1633630566232	Marionette	INFO	Listening on port 60641
+1633630566406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+1633630981398	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633631533027	Marionette	INFO	Stopped listening on port 60641
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633634856626	geckodriver	INFO	Listening on 127.0.0.1:64417
+1633634860040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileAbVnxO"
+1633634867489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofileAbVnxO\\search.json.mozlz4", (void 0)))
+1633634896961	Marionette	INFO	Listening on port 64426
+1633634897532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+1633635837907	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1633637483150	Marionette	INFO	Stopped listening on port 64426
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+t	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633637479497	Marionette	INFO	Stopped listening on port 63177
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 12904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12904, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633637495014	geckodriver	INFO	Listening on 127.0.0.1:63470
+1633637498113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofile95DIhg"
+1633637500276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofile95DIhg\\search.json.mozlz4", (void 0)))
+1633637507853	Marionette	INFO	Listening on port 63478
+1633637508155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633640169551	Marionette	INFO	Stopped listening on port 63478
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 16356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633640164686	Marionette	INFO	Stopped listening on port 63746
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 13636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+/gre/modules/Region.jsm", 419))
+1633639418606	Marionette	INFO	Listening on port 50918
+1633639420306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js line 158 > srcScript, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633640162964	Marionette	INFO	Stopped listening on port 50918
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 16544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 16544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633654727621	geckodriver	INFO	Listening on 127.0.0.1:54279
+1633654730751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofilepZ211K"
+1633654742965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jsantos\\AppData\\Local\\Temp\\rust_mozprofilepZ211K\\search.json.mozlz4", (void 0)))
+1633654769447	Marionette	INFO	Listening on port 49773
+1633654770113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 537: unreachable code after return statement
+JavaScript warning: https://erpb.orsa.mx:31475/cs/cpfb91pr/cache/PT_TYPEAHEAD_POR_win0_MIN_1.js, line 542: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633698237992	Marionette	INFO	Stopped listening on port 49773
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.

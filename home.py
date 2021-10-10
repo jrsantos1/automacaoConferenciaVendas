@@ -13,9 +13,7 @@ navegator.find_element_by_xpath('//*[@id="pwd"]').send_keys('987654321*')
 
 navegator.find_element_by_xpath('//*[@id="login"]/div/div[1]/div[8]/input').click()
 
-tabela = pd.read_excel("requisicoes_teste.xlsx")
-
-display(tabela)
+tabela = pd.read_excel("requisicoes.xlsx")
 
 for i, buu in enumerate(tabela['BU']):
     if(tabela.loc[i, "ID_requisicao"] == ""):
@@ -46,7 +44,8 @@ for i, buu in enumerate(tabela['BU']):
     navegator.find_element_by_xpath('//*[@id="#ICSearch"]').click()
 
     #navegator.switch_to.frame('TargetContent')
-    time.sleep(5)
+
+    time.sleep(7)
 
     navegator.find_element_by_xpath('//*[@id="REQ_HDR_REQ_NAME"]').send_keys(titulo)
 
@@ -88,6 +87,8 @@ for i, buu in enumerate(tabela['BU']):
 
     navegator.switch_to.default_content()
 
+    time.sleep(10)
+
     navegator.find_element_by_xpath('//*[@id="#ICOK"]').click()
 
     time.sleep(8)
@@ -109,6 +110,8 @@ for i, buu in enumerate(tabela['BU']):
     navegator.switch_to.default_content()
 
     time.sleep(5)
+
+    if(navegator.)
 
     navegator.find_element_by_xpath('//*[@id="#ICYes"]').click()# confirmar e seguir
 
@@ -136,31 +139,33 @@ for i, buu in enumerate(tabela['BU']):
 
     navegator.find_element_by_xpath('//*[@id="#ICSave"]').click()
 
+    time.sleep(3)
+
+    navegator.switch_to.default_content()
+
     time.sleep(8)
 
     navegator.switch_to.frame('TargetContent')
-
-    time.sleep(3)
 
     navegator.find_element_by_xpath('//*[@id="REQ_PNLS_WRK_RETURN_PB"]').click() #voltar para tela inicial
 
     time.sleep(3)
 
-    navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_PRICE_REQ_C$0"]').clear()
+    #navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_PRICE_REQ_C$0"]').clear()
 
 
     navegator.find_element_by_xpath('//*[@id="REQ_LINE_WRK_PRICE_REQ_C$0"]').send_keys(altera_valor)
 
     time.sleep(3)
 
-    navegator.find_element_by_xpath('//*[@id="#ICSave"]').click() #salvar requisicao
+    #navegator.find_element_by_xpath('//*[@id="#ICSave"]').click() #salvar requisicao
 
     time.sleep(8)
 
 
     #id_requisicao_gerada = navegator.find_element_by_xpath('//*[@id="REQ_HDR_REQ_ID"]').text #recebe valor da requisicao
 
-    tabela.loc[i, "ID_requisicao"] = navegator.find_element_by_xpath('//*[@id="REQ_HDR_REQ_ID"]').text
+    tabela.loc[i, "ID_requisicao"] = "Teste OK"#navegator.find_element_by_xpath('//*[@id="REQ_HDR_REQ_ID"]').text
 
     #navegator.find_element_by_xpath('//*[@id="PO_KK_WRK_PB_BUDGET_CHECK"]/img').click() #validar orçamento
 
@@ -171,4 +176,4 @@ for i, buu in enumerate(tabela['BU']):
 
     #validar orçamento //*[@id="PO_KK_WRK_PB_BUDGET_CHECK"]/img
 
-    tabela.to_excel("Requisições_Geradas_apresentação.xlsx")
+    tabela.to_excel("Requisições_Geradas.xlsx")
